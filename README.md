@@ -1,11 +1,4 @@
 <img align="center" src="https://raw.githubusercontent.com/UnicornJames/UnicornJames/main/header_img.png" />
-
-<p align='center'>
-  <img alt='UnicornJames's Github followers' src="https://img.shields.io/github/followers/UnicornJames?label=Follow&style=flat&color=yellow&logo=github" />
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/UnicornJames?style=flat&logo=github&color=ff69b4" />
-  <img alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=UnicornJames.UnicornJames&style=for-the-badge" />
-</p>
-
 ## Where to find me
                                                                                                                         
 <p align='center'>
@@ -59,8 +52,12 @@
   <img src='https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=Codepen&logoColor=white' />
   <img src='https://img.shields.io/badge/-CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white' />
 </p>
-                                                                                                                              
 
+<h2>📊 GitHub Stats </h2>
+<p>
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&layout=compact&theme=github_dark" >
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=github_dark">
+</p>                                                                                                                           
 
 <p align='center'>
   <img src='https://metrics.lecoq.io/UnicornJames?template=classic&isocalendar=1&languages=1&achievements=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBudapest' />
