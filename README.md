@@ -56,8 +56,6 @@
 
 <h2>📊 GitHub Stats </h2>
 <p>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?
-username=UnicornJames&layout=compact&theme=github_dark" >
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnicornJames&layout=compact&theme=github_dark">
 </p>                                                                                                                           
 
