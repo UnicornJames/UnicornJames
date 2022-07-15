@@ -9,6 +9,14 @@
   <a href='https://join.skype.com/invite/wb9JoM69dZcA'><img src='https://img.shields.io/badge/-Skype-blue?style=flat-square&logo=Skype&logoColor=white' /></a>
 </p>
 
+## Who am I
+
+<p align='left'>
+As a Junior web developer, my name is James Richard from Asia.
+Major skill is React.js and JavaScript and I love MVC model for product development.
+I am Creative, Responsible and Customer Opinion-Oriented.
+</p>
+
 ## Languages
                                                                                                                               
 <p align='center'>
