@@ -45,6 +45,7 @@ I am Creative, Responsible and Customer Opinion-Oriented.
   <img src='https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white' />
                                                                                                                                                
   <img src='https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white' />
+  <img src='https://img.shields.io/badge/-VisualStudio-007ACC?style=flat-square&logo=VisualStudio&logoColor=white' />
   <img src='https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white' />
   
   <img src='https://img.shields.io/badge/-AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white' />
