@@ -4,7 +4,7 @@
                                                                                                                         
 <p align='center'>
   <a href='mailto:unicornjameser@gmail.com'><img src='https://img.shields.io/badge/-unicornjameser@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white' /></a>
-  <a href='https://t.me/jameserKoko'><img src='https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white' /></a>
+  <a href='https://t.me/jameserHiro'><img src='https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white' /></a>
   <a href='https://medium.com/@unicornjameser'><img src='https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium' /></a>
   <a href='https://join.skype.com/invite/wb9JoM69dZcA'><img src='https://img.shields.io/badge/-Skype-blue?style=flat-square&logo=Skype&logoColor=white' /></a>
 </p>
